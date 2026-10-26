@@ -1,0 +1,12 @@
+# data and outputs (may contain personal data)
+*.jsonl
+topics/
+summaries/
+examples/demo/
+
+# python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
